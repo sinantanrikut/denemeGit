@@ -31,9 +31,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func buttonClicked(_ sender: Any) {
-        print("button clicked")
+        print("button clicked12")
     }
     
 }
-
-print("a")
